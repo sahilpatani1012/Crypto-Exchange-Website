@@ -1,0 +1,65 @@
+.nav-margin {
+  padding: 0rem 12rem;
+}
+/* .nav-margin nav{
+  background-color: #6166B3;
+} */
+.intro {
+  margin-top: 9rem;
+}
+.intro-para {
+  font-size: 1.5rem;
+}
+.intro-img img {
+  width: 36rem;
+  margin-top: 3rem;
+  border-radius: 7px;
+}
+.intro-btn {
+  margin-top: 2rem;
+}
+.brand {
+  font-size: 2.1rem;
+  font-weight: 500;
+}
+.nav-elements {
+  font-size: 1.2rem;
+}
+.nav li {
+  margin-right: 1.1rem;
+}
+.nav-des {
+  background-color: #6166b3;
+}
+.listing{
+  background-color: #6166b3;
+  text-align: center;
+  color: white;
+  width: 100%;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.intro-sec{
+  margin-bottom: 4rem;
+}
+.pancake{
+  width: 15rem;
+  border-radius: 7px;
+}
+.hotbit{
+  width: 15rem;
+  border-radius: 7px;
+  background-color: white;
+  padding: 2rem 0;
+}
+.mxc{
+  width: 15rem;
+  border-radius: 7px;
+}
+.coingeko{
+  width: 15rem;
+  border-radius: 7px;
+}
+.exchange-intro{
+  margin-bottom: 4rem;
+}
